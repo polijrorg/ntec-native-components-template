@@ -1,3 +1,3 @@
 # Template de aplicação React Native com @ntec/native instalado 💯
 
-(Link do @ntec/native)[https://github.com/polijrorg/eh-tudo-nosso]
+Este template utiliza o pacote de componentes [@ntec/native](https://github.com/polijrorg/eh-tudo-nosso) 👀.
